@@ -9,12 +9,11 @@
 ### Knowledge Gained:-
 
   
-  - Float
-  - Navigation Menu Positioning
-  - Type of Selectors
-  - Image Overlap
+  - Psuedo- Before & After
+  - Backgroung Image positioning-view port height & width
+  - Navigation Menu
   
-### Development Efforts:- 3.50 hours
+### Development Efforts:- 2 hours
   
 ### Technologies:-
 <span>
